@@ -10,7 +10,7 @@ function App() {
 
   return (
     <>
-    <h1>R</h1>
+    <h1>Re</h1>
       {/* inline css */}
       <h1 style={{ color: "red", backgroundColor: "yellow" }}>
         Hi I am Inline CSS
