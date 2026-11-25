@@ -37,7 +37,7 @@ function App() {
         Fugit id doloribus tenetur pariatur dolore explicabo rem vel dolorum
         exercitationem repellat quae inventore, voluptate minus odio excepturi
         itaque. Deserunt architecto ratione maiores placeat voluptate fugit
-        sequi eos est quasi. Apple
+        sequi eos est quasi. Apple 
       </p>
       <h1 className="ashish">Hi I am Class CSS</h1>
       
